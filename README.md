@@ -1,1 +1,1 @@
-# ziwork.github.io
+# znetworkx.github.io
